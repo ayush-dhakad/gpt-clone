@@ -138,7 +138,3 @@ The generated text mimics Shakespeare’s style but is **entirely machine-genera
 - [ ] Support **token-level GPT** instead of character-level.
 - [ ] Add support for **custom datasets**.
 - [ ] Include pretrained weights for quick testing.
-
-
-## **📜 License**
-This project is licensed under the **MIT License**.
